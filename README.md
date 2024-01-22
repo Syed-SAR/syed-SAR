@@ -19,7 +19,7 @@ preview
 
 - 🔭 I’m currently working on **Devops project**
 
-- 👨‍💻 All of my projects are available at [github.com/syed-sar](github.com/syed-sar)
+- 👨‍💻 All of my projects are available at [[github.com/syed-sar](https://github.com/Syed-SAR?tab=repositories)]([github.com/syed-sar](https://github.com/Syed-SAR?tab=repositories))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
