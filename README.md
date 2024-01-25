@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18670
-Fork on GitHub
-5566
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Syed Abdul Rahman</h1>
 <h3 align="center">A passionate IT professional</h3>
 
